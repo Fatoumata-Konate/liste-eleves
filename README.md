@@ -34,5 +34,7 @@ Dans `app.py`, repérez la liste `eleves` et ajoutez votre ligne :
 eleves = [
     {"prenom": "Loïc", "nom": "Dumont", "github": "loic-prof"},
     {"prenom": "Votre prénom", "nom": "Votre nom", "github": "votre-username"},
+    {"prenom": "Fatoumata", "nom": "konate", "github": "Fatoumata-Konate" "groupe":"2"},
+    
 ]
 ```
